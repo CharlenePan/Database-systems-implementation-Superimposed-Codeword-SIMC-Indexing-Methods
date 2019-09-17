@@ -5,6 +5,7 @@
 // Most significant bits (MSB) are in array[nbytes-1]
 
 // Written by John Shepherd, September 2018
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 
 #include <assert.h>
 #include "defs.h"
