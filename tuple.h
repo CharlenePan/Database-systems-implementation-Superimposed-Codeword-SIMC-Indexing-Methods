@@ -4,7 +4,7 @@
 // Consists of "val_1,val_2,val_3,...,val_n"
 // See tuple.c for details on functions
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #ifndef TUPLE_H
 #define TUPLE_H 1
 

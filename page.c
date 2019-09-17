@@ -2,7 +2,7 @@
 // part of SIMC signature files
 // Reading/writing pages into buffers and manipulating contents
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #include <unistd.h>
 #include "defs.h"
 #include "page.h"

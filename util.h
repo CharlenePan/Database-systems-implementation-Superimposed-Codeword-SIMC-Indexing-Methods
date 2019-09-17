@@ -3,7 +3,7 @@
 // Functions that don't fit into one of the
 //   obvious data types like File, Query, ...
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #ifndef UTIL_H
 #define UTIL_H 1
 

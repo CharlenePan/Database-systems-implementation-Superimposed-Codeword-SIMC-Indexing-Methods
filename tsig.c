@@ -1,7 +1,7 @@
 // tsig.c ... functions on Tuple Signatures (tsig's)
 // part of SIMC signature files
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #include <unistd.h>
 #include <string.h>
 #include "defs.h"

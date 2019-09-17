@@ -2,6 +2,7 @@
 // part of SIMC signature files
 // See reln.c for details on Reln type and functions
 // Written by John Shepherd, September 2018
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #ifndef RELN_H
 #define RELN_H 1
 

@@ -2,7 +2,7 @@
 // part of SIMC signature files
 // See query.c for details of Query type and functions
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #ifndef QUERY_H
 #define QUERY_H 1
 

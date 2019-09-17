@@ -1,7 +1,7 @@
 // tuple.c ... functions on tuples
 // part of SIMC signature files
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #include "defs.h"
 #include "tuple.h"
 #include "reln.h"

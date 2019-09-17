@@ -1,7 +1,7 @@
 // reln.c ... functions on Relations
 // part of SIMC signature files
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>

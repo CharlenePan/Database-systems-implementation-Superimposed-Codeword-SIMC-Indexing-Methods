@@ -2,7 +2,7 @@
 // part of SIMC signature files
 // See pages.c for descriptions of Page type and functions
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #ifndef PAGE_H
 #define PAGE_H 1
 

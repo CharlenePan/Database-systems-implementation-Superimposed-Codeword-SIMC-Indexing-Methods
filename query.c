@@ -2,7 +2,7 @@
 // part of SIMC signature files
 // Manage creating and using Query objects
 // Written by John Shepherd, September 2018
-
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 #include "defs.h"
 #include "query.h"
 #include "reln.h"
