@@ -2,6 +2,7 @@
 // part of SIMC signature files
 // See bits.c for details of functions
 // Written by John Shepherd, September 2018
+// Fuctions written by MeiyanPAN for database systems implementation assignment
 
 #ifndef BITS_H
 #define BITS_H 1
